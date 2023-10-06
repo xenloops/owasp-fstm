@@ -1,15 +1,14 @@
----
-description: >-
-  FSTM is composed of nine stages tailored to enable security researchers,
-  software developers, hobbyists, and Information Security professionals with
-  conducting firmware security assessments.
----
+
 
 # OWASP Firmware Security Testing Methodology
 
 ![](.gitbook/assets/fstm_cover.png)
 
 Whether network connected or standalone, firmware is the center of controlling any embedded device. As such, it is crucial to understand how firmware can be manipulated to perform unauthorized functions and potentially cripple the supporting ecosystem’s security. To get started with performing security testing and reverse engineering of firmware, use the following methodology as guidance when embarking on an upcoming assessment. The methodology is composed of nine stages tailored to enable security researchers, software developers, consultants, hobbyists, and Information Security professionals with conducting firmware security assessments.
+
+  FSTM is composed of nine stages tailored to enable security researchers,
+  software developers, hobbyists, and Information Security professionals with
+  conducting firmware security assessments.
 
 | **Stage** | **Description** |
 | :--- | :--- |
